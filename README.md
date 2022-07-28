@@ -12,3 +12,4 @@ Able to print panic backtrace too?
 
 Experiment with different ways of panic recovery:
 - Panic hook
+- Printing to screen
